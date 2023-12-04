@@ -1,0 +1,49 @@
+Hello there! I am Jin Han and this is my Microsoft AI Classroom Hackathon video. My project is AIO.
+
+What's AIO? You may be asking.
+AIO stands for All, In, One. As the name suggests, it is an all-in-one university application for lecturers, students and staffs in the university.
+
+Let's deep dive and observe how it can help your life become easier!
+
+Before going further, this is a no-code project.
+
+
+Boring classes and have nothing to do? Never miss another exciting moment with the event feature. All performances, talks and other interesting events hosted by the university will be shown here!
+Our academic journey is neatly organized in the classroom session. All academic related stuff can be found here!
+Timetable detailing tutorials, lecture slots, and crucial exam dates. And fear not, your reliable timetable will send a reminder to you when exam is near so that you won't forget your next exam!
+
+Our features do not just stop here
+
+Next Bus and Dining features are one of the most awesome features anyone can have!
+
+Next bus is AI-powered to calculate the best route and time to take when traveling to one place to another. It is implemented with GPS technology to show the arrival time of the next bus to ensure us never miss another class.
+
+What can get worse than starving? It's definitely queueing while starving! With this AI-powered Dining session, it tells you the peak hours and even pre-order and pay your meal before you even arrive.
+
+Wait what's that! A chat bot?! A chat Hamster?!
+
+It's Hammy! Hammy is a chatbot, which serves as tour guide in your university, physically and in this university. This is especially useful for freshmen. 
+
+For example, we can ask, where is the closest library?
+And our hamster will reply.
+The closest library is the Science Library. Student card is required to access the library. You can get there from your nearest busstop Newman Collenge busstop to Science building by taking Shuttle Bus #25 or Shuttle Bus #43. The trip duration shall take approximately 22 minutes.
+
+Alternatively, we can also ask when is my CS50 exam?
+
+Your CS50 Introduction to Computer Science final exam will be held on the 25th of November at 09:00 morning. The venue would be at the Central Hall.
+
+Of course! There is a variety of chat-animals to choose from! Just a tap and your favourite university animal is all set!
+
+Now we have covered a series of features.
+
+Last but not least, we can easily access microsoft teams from AIO! This is definitely an awesome opportunity to extend Microsoft's influence in the educational sector.
+
+There are much much more features here!
+
+Find out more at this github link!
+
+And in case you want to contact me, here's my contact! Feel free to approach me!
+
+And this marks the end of our AIO Microsfot AI Classroom Hackathon! I am Jin Han! And I wish you a magnificient day ahead!
+
+The page will look something like this.
